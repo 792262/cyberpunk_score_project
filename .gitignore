@@ -1,6 +1,6 @@
 # Données sensibles ou volumineuses
-*.pkl
-*.csv
+#*.pkl
+#*.csv
 *.db
 *.log
 
